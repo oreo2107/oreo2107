@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Om
-- 👀 I’m interested in Server technologies
-- 🌱 I’m currently learning DevOps strategies
-- 💞️ I’m looking to collaborate on deployment procedure
+- 👋 Hi, I’m Om.
+- 👀 I’m interested in Python.
+- 🌱 I’m currently doing DSA practice.
+- 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me? Just email me at ommishra.work@gmail.com
 
 <!---
